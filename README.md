@@ -1,6 +1,7 @@
 # petClinic Project
 This is our team project at GFA. We are developing a web application for a pet clinic.<br>
-<h2>Please be aware, that this is an ongoing development, by checking the below repositories, you will see the current state of the project (expected complition 09/2024).</h2>
+<h3>Please be aware, that this is an ongoing development, by checking the below repositories, you will see the current state of the project (expected complition 09/2024).</h3>
+
 ## Backend
 * Github repository: https://github.com/gfa-cc-after/StudyGroup_1_PET_Clinic_Backend-main
 * URL (Railway): drama-backend.up.railway.app/
