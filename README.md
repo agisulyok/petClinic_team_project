@@ -2,7 +2,7 @@
 This is a pet clinic project.
 The project resembles a pet clinic where you can add pets, owners, and veterinarians.
 ### Technical requirements
-The application is containerized
+* The application is containerized
 The single-page application is served by a web server
 The data is stored in a database
 The database is a relational database
