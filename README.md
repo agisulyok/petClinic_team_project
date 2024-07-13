@@ -1,4 +1,16 @@
-## petClinic
+# petClinic Project
+This is our team project at GFA. We are developing a web application for a pet clinic.
+Please be aware, that this is an ongoing development, by checking the below repositories, you will see the current state of the project (expected complition 09/2024).
+## Backend
+* Github repository: https://github.com/gfa-cc-after/StudyGroup_1_PET_Clinic_Backend-main
+* URL (Railway): drama-backend.up.railway.app/
+* Java Sping Boot backend app (REST API).
+## Frontend
+* Github repository: https://github.com/gfa-cc-after/StudyGroup_1_PET_Clinic_Frontend-main
+* URL (Railway): drama-frontend.up.railway.app/
+* VITE + React frontend application
+
+## Project description
 This is a pet clinic project.
 The project resembles a pet clinic where you can add pets, owners, and veterinarians.
 ### Technical requirements
